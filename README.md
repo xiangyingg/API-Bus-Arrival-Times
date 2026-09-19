@@ -1,6 +1,6 @@
 # Bus Arrival Times: From API Data to Actionable Insight
 
-## Executive summary
+## Project overview
 
 This project turns live bus arrival data into a practical decision-support tool for planning a journey from a selected bus stop to school. It combines an API-driven data pipeline built in **Alteryx** with an interactive **Power BI** dashboard, showing how raw transport data can be transformed into a clear and useful experience for both technical and non-technical audiences.
 
