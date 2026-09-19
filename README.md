@@ -80,6 +80,6 @@ The repository includes:
 - **For non-technical audiences:** the Power BI dashboard provides a single, accessible view of the information needed to understand upcoming bus arrivals.
 - **For portfolio reviewers:** the project shows end-to-end ownership, from defining a real-world problem through to delivering a usable analytical product.
 
-## Closing perspective
+## Project takeaway
 
 This project demonstrates that effective analytics is not just about collecting data or building a visualisation. It is about connecting a real user need to a reliable workflow and a clear outcome. By combining Alteryx and Power BI, the project transforms bus arrival API data into a practical tool for planning a journey to school and illustrates the broader value of data pipelines in everyday decision-making.
